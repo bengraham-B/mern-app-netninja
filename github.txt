@@ -1,0 +1,12 @@
+git remote add origin https://github.com/bengraham-B/mern-app-netninja.git
+git branch -M main
+git push -u origin main
+
+git pull https://github.com/bengraham-B/mern_stack_netninja.git
+
+Silly Goose
+
+AUTH Branch
+git remote add origin https://github.com/bengraham-B/mern-app-netninja.git
+git branch -M auth
+git push -u origin auth
